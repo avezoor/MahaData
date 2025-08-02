@@ -1,2 +1,2 @@
 # MahaData
-MahaData adalah package Python all-in-one untuk sains data di berbagai disiplin ilmu.
+MahaData adalah package all-in-one untuk sains data di berbagai disiplin ilmu.
